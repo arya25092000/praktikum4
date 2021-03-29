@@ -1,4 +1,4 @@
-package praktikum4;
+package com.tutorial;
 
 class CPU {
     double price;
@@ -41,5 +41,4 @@ public class Main {
         System.out.println("Processor Cache = " + processor.getCache());
         System.out.println("Ram Clock speed = " + ram.getClockSpeed());
     }
-    
 }
